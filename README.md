@@ -1,5 +1,5 @@
 # Pagina de Miki88mac
-![Imagen de Portada](url_de_la_imagen) 
+![Imagen de Portada](Recursos/gatito.jpg) 
 ## Descripción 
 Breve descripción del proyecto, objetivos y funcionalidades principales. 
 ## Características - Característica 1 - Característica 2 - Característica 3 
